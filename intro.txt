@@ -1,4 +1,0 @@
-Tôi tên là <khởi>. Tôi là sinh viên IT.
-Sở thích: cà phê cùng bạn bè, xem điện thoại, ngủ.
-Kỹ năng: Python, Git, HTML.
-Kế hoạch học tập: 1. Ôn Git 2. Học Java 3. Luyện SQL 4. Tìm hiểu Docker 5. Làm project nhỏ
