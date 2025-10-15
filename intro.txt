@@ -1,0 +1,3 @@
+Tôi tên là <khởi>. Tôi là sinh viên IT.
+Sở thích: cà phê cùng bạn bè, xem điện thoại, ngủ.
+Kỹ năng: Python, Git, HTML.
