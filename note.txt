@@ -2,5 +2,3 @@
 - Giúp làm việc nhóm hiệu quả.
 - Ghi lại lịch sử thay đổi.
 - Ghi lại lịch sử thay đổi.
-- Dễ dàng hoàn nguyên lỗi.
-- Hỗ trợ nhiều workflow chuyên nghiệp.
