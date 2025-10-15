@@ -1,0 +1,4 @@
+- Git giúp quản lý phiên bản dễ dàng.
+- Giúp làm việc nhóm hiệu quả.
+- Ghi lại lịch sử thay đổi.
+- Ghi lại lịch sử thay đổi.
